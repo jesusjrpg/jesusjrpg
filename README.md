@@ -6,7 +6,7 @@ I am a results-driven **IT Manager** with a high-growth career path and over **8
 
 ---
 
-### 🚀 Professional Highlights
+### Professional Highlights
 * **Rapid Career Growth:** Fast-tracked from IT Technician to **IT Manager** in just one year (achieving 2 promotions due to performance and leadership).
 * **Unity Veteran:** 8+ years of hands-on experience with the engine, focusing on C# scripting and game architecture.
 * **Systems Expert:** Proven ability to design and implement core gameplay modules such as:
