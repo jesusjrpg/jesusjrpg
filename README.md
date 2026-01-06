@@ -19,7 +19,8 @@ I am a results-driven **IT Manager** with a high-growth career path and over **8
 ### Tech Stack & Skills
 * **Languages:** C#, SQL, Python.
 * **Game Dev:** Unity Engine (2D/3D), Unreal Engine, Android Deployment, Rapid Prototyping.
-* **IT Management:** Systems Architecture, Agile Methodologies, Project Management, ITIL.
+* **IT Management & Leadership:** Team Leadership, Project Management (Agile/ITIL), IT Budgeting & Purchasing, Vendor Management.
+* **Infrastructure & Ops:** Systems & Networks (Cisco VLANs), Virtualization, Backup & Recovery Strategy, Device Setup & Maintenance (PC/Mobile).
 
 ---
 
