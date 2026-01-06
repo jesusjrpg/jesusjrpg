@@ -24,8 +24,8 @@ I am a results-driven **IT Manager** with a high-growth career path and over **8
 ---
 
 ### Featured Projects
-* **Legend of Selda[https://github.com/jesusjrpg/Legend-of-Selda]**: A technical demo showcasing inventory management and persistent data.
-* **[Africa's Game]**: A fully functional Android project focused on mobile optimization.
+* **[[Legend of Selda]](https://github.com/jesusjrpg/Legend-of-Selda)**: A technical demo showcasing inventory management and persistent data.
+* **[[Africa's Game]](https://github.com/jesusjrpg/Africas-Game)**: A fully functional Android project focused on mobile optimization.
 
 ---
 
