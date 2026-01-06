@@ -26,10 +26,9 @@ I am a results-driven **IT Manager** with a high-growth career path and over **8
 
 ### Featured Projects
 * **[Legend of Selda]**: A 2D RPG focused on systems architecture and core gameplay mechanics.
-  * [📁 View Code](https://github.com/jesusjrpg/Legend-of-Selda) | [🎬 Watch GIF](https://github.com/jesusjrpg/Legend-of-Selda#legend-of-selda---a-zelda-inspired-2d-rpg-tech-demo)
+  * [View Code](https://github.com/jesusjrpg/Legend-of-Selda)
 * **[Africa's Game]**: A fully functional Android project focused on mobile optimization.
-  * [📁 View Code](https://github.com/jesusjrpg/Africas-Game) | <a href="https://github.com/jesusjrpg/Africas-Game#africas-game---mobile-educational-game-for-android" target="_blank">🎬 Watch GIF</a>
-  [🎬 Watch GIF](https://github.com/jesusjrpg/Africas-Game#africas-game---mobile-educational-game-for-android)
+  * [View Code](https://github.com/jesusjrpg/Africas-Game)
 ---
 
 **How to reach me:** [jesus.parra.garcia@hotmail.com]
